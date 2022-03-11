@@ -1,5 +1,4 @@
-# MIUI_OTA_21121210C
-Redmi K50 Gaming Edition OTA Link
+红米K50电竞版刷机包(链接为MIUI官方链接，本项目仅为记录)
 
 ---- 
 |机型|开发版|稳定版|线刷包|
