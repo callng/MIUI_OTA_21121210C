@@ -1,1 +1,3 @@
-很遗憾，还没有开发版本可用。
+| Redmi K50 电竞版  开发版    |
+| ---- |
+| [miui_INGRES_V13.0.5.1.16.DEV_1b3401e9b0_12.0.zip](https://hugeota.d.miui.com/V13.0.5.1.16.DEV/miui_INGRES_V13.0.5.1.16.DEV_1b3401e9b0_12.0.zip)    |
