@@ -1,5 +1,6 @@
 | Redmi K50 电竞版  开发版    |
 | ---- |
+| [miui_INGRES_V13.0.9.1.35.DEV_f57a2a7c8c_12.0.zip](https://hugeota.d.miui.com/V13.0.9.1.35.DEV/miui_INGRES_V13.0.9.1.35.DEV_f57a2a7c8c_12.0.zip)    |
 | [miui_INGRES_V13.0.9.1.32.DEV_2df1d73db7_12.0.zip](https://hugeota.d.miui.com/V13.0.9.1.32.DEV/miui_INGRES_V13.0.9.1.32.DEV_2df1d73db7_12.0.zip)    |
 | [miui_INGRES_V13.0.8.1.29.DEV_0029f946a5_12.0.zip](https://hugeota.d.miui.com/V13.0.8.1.29.DEV/miui_INGRES_V13.0.8.1.29.DEV_0029f946a5_12.0.zip)    |
 | [miui_INGRES_V13.0.8.1.28.DEV_d5191cc5b9_12.0.zip](https://hugeota.d.miui.com/V13.0.8.1.28.DEV/miui_INGRES_V13.0.8.1.28.DEV_d5191cc5b9_12.0.zip)    |
